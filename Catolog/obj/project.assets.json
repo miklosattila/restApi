@@ -466,11 +466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\restAPI\\Catolog\\Catolog.csproj",
+      "projectUniqueName": "C:\\restApi\\Catolog\\Catolog.csproj",
       "projectName": "Catolog",
-      "projectPath": "E:\\restAPI\\Catolog\\Catolog.csproj",
+      "projectPath": "C:\\restApi\\Catolog\\Catolog.csproj",
       "packagesPath": "C:\\Users\\domes\\.nuget\\packages\\",
-      "outputPath": "E:\\restAPI\\Catolog\\obj\\",
+      "outputPath": "C:\\restApi\\Catolog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

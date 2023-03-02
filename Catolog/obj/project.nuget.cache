@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HeI3swUXaF8RGtuyIz9Z2IqZ8fpeI9RvKcOHsPguket/vJJIUpRbSpB4zArYLsYdH56zyoRh6AHEX/99DzDw8g==",
+  "dgSpecHash": "P+XDQ0pf8D7mvXmG4+xOfB/rQGB42YlJrgdz3nzL1NO+P/IDTjJ0+gteJSZt3Q3zAmq0ubUvtodyAhWT957iRw==",
   "success": true,
-  "projectFilePath": "E:\\restAPI\\Catolog\\Catolog.csproj",
+  "projectFilePath": "C:\\restApi\\Catolog\\Catolog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\domes\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\domes\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
